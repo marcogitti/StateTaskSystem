@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\55179\\source\\repos\\StateTaskSystem\\StateTaskSystem.csproj": {}
+    "C:\\Users\\Alunos\\Documents\\StateTaskSystem\\StateTaskSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\55179\\source\\repos\\StateTaskSystem\\StateTaskSystem.csproj": {
+    "C:\\Users\\Alunos\\Documents\\StateTaskSystem\\StateTaskSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\55179\\source\\repos\\StateTaskSystem\\StateTaskSystem.csproj",
+        "projectUniqueName": "C:\\Users\\Alunos\\Documents\\StateTaskSystem\\StateTaskSystem.csproj",
         "projectName": "StateTaskSystem",
-        "projectPath": "C:\\Users\\55179\\source\\repos\\StateTaskSystem\\StateTaskSystem.csproj",
-        "packagesPath": "C:\\Users\\55179\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\55179\\source\\repos\\StateTaskSystem\\obj\\",
+        "projectPath": "C:\\Users\\Alunos\\Documents\\StateTaskSystem\\StateTaskSystem.csproj",
+        "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alunos\\Documents\\StateTaskSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\55179\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -35,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -96,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

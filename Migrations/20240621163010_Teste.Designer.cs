@@ -11,8 +11,8 @@ using StateTaskSystem.Data;
 namespace StateTaskSystem.Migrations
 {
     [DbContext(typeof(StateDBContext))]
-    [Migration("20240621140651_CriarBanco")]
-    partial class CriarBanco
+    [Migration("20240621163010_Teste")]
+    partial class Teste
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
