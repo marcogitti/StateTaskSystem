@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\55179\\source\\repos\\StateTaskSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB933CFE-F536-430C-8466-12C9498C568C}|StateTaskSystem.csproj|c:\\users\\55179\\source\\repos\\statetasksystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB933CFE-F536-430C-8466-12C9498C568C}|StateTaskSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB933CFE-F536-430C-8466-12C9498C568C}|StateTaskSystem.csproj|c:\\users\\55179\\source\\repos\\statetasksystem\\migrations\\20240621140651_criarbanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB933CFE-F536-430C-8466-12C9498C568C}|StateTaskSystem.csproj|solutionrelative:migrations\\20240621140651_criarbanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB933CFE-F536-430C-8466-12C9498C568C}|StateTaskSystem.csproj|c:\\users\\55179\\source\\repos\\statetasksystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB933CFE-F536-430C-8466-12C9498C568C}|StateTaskSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\55179\\source\\repos\\StateTaskSystem\\Migrations\\20240621140601_CriarBanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240621140601_CriarBanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB933CFE-F536-430C-8466-12C9498C568C}|StateTaskSystem.csproj|c:\\users\\55179\\source\\repos\\statetasksystem\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB933CFE-F536-430C-8466-12C9498C568C}|StateTaskSystem.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\55179\\source\\repos\\StateTaskSystem\\Migrations\\20240621140024_CriarBanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240621140024_CriarBanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB933CFE-F536-430C-8466-12C9498C568C}|StateTaskSystem.csproj|c:\\users\\55179\\source\\repos\\statetasksystem\\data\\statedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB933CFE-F536-430C-8466-12C9498C568C}|StateTaskSystem.csproj|solutionrelative:data\\statedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB933CFE-F536-430C-8466-12C9498C568C}|StateTaskSystem.csproj|c:\\users\\55179\\source\\repos\\statetasksystem\\controllers\\ctaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB933CFE-F536-430C-8466-12C9498C568C}|StateTaskSystem.csproj|solutionrelative:controllers\\ctaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB933CFE-F536-430C-8466-12C9498C568C}|StateTaskSystem.csproj|c:\\users\\55179\\source\\repos\\statetasksystem\\state\\statetaskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB933CFE-F536-430C-8466-12C9498C568C}|StateTaskSystem.csproj|solutionrelative:state\\statetaskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB933CFE-F536-430C-8466-12C9498C568C}|StateTaskSystem.csproj|c:\\users\\55179\\source\\repos\\statetasksystem\\state\\enum\\statetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB933CFE-F536-430C-8466-12C9498C568C}|StateTaskSystem.csproj|solutionrelative:state\\enum\\statetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240621140651_CriarBanco.cs",
+              "DocumentMoniker": "C:\\Users\\55179\\source\\repos\\StateTaskSystem\\Migrations\\20240621140651_CriarBanco.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240621140651_CriarBanco.cs",
+              "ToolTip": "C:\\Users\\55179\\source\\repos\\StateTaskSystem\\Migrations\\20240621140651_CriarBanco.cs",
+              "RelativeToolTip": "Migrations\\20240621140651_CriarBanco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:06:51.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240621140601_CriarBanco.cs",
+              "DocumentMoniker": "C:\\Users\\55179\\source\\repos\\StateTaskSystem\\Migrations\\20240621140601_CriarBanco.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240621140601_CriarBanco.cs",
+              "ToolTip": "C:\\Users\\55179\\source\\repos\\StateTaskSystem\\Migrations\\20240621140601_CriarBanco.cs",
+              "RelativeToolTip": "Migrations\\20240621140601_CriarBanco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:06:01.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240621140024_CriarBanco.cs",
+              "DocumentMoniker": "C:\\Users\\55179\\source\\repos\\StateTaskSystem\\Migrations\\20240621140024_CriarBanco.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240621140024_CriarBanco.cs",
+              "ToolTip": "C:\\Users\\55179\\source\\repos\\StateTaskSystem\\Migrations\\20240621140024_CriarBanco.cs",
+              "RelativeToolTip": "Migrations\\20240621140024_CriarBanco.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:00:24.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\55179\\source\\repos\\StateTaskSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\55179\\source\\repos\\StateTaskSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T05:56:26.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\55179\\source\\repos\\StateTaskSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\55179\\source\\repos\\StateTaskSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T05:57:22.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\55179\\source\\repos\\StateTaskSystem\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\55179\\source\\repos\\StateTaskSystem\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T05:56:53.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StateTaskModel.cs",
+              "DocumentMoniker": "C:\\Users\\55179\\source\\repos\\StateTaskSystem\\State\\StateTaskModel.cs",
+              "RelativeDocumentMoniker": "State\\StateTaskModel.cs",
+              "ToolTip": "C:\\Users\\55179\\source\\repos\\StateTaskSystem\\State\\StateTaskModel.cs",
+              "RelativeToolTip": "State\\StateTaskModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T05:50:10.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StateTask.cs",
+              "DocumentMoniker": "C:\\Users\\55179\\source\\repos\\StateTaskSystem\\State\\Enum\\StateTask.cs",
+              "RelativeDocumentMoniker": "State\\Enum\\StateTask.cs",
+              "ToolTip": "C:\\Users\\55179\\source\\repos\\StateTaskSystem\\State\\Enum\\StateTask.cs",
+              "RelativeToolTip": "State\\Enum\\StateTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T05:49:17.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StateDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\55179\\source\\repos\\StateTaskSystem\\Data\\StateDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\StateDBContext.cs",
+              "ToolTip": "C:\\Users\\55179\\source\\repos\\StateTaskSystem\\Data\\StateDBContext.cs",
+              "RelativeToolTip": "Data\\StateDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T05:45:38.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CTaskController.cs",
+              "DocumentMoniker": "C:\\Users\\55179\\source\\repos\\StateTaskSystem\\Controllers\\CTaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CTaskController.cs",
+              "ToolTip": "C:\\Users\\55179\\source\\repos\\StateTaskSystem\\Controllers\\CTaskController.cs",
+              "RelativeToolTip": "Controllers\\CTaskController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T05:41:33.164Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
