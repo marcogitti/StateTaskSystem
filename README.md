@@ -11,17 +11,17 @@ Define que este método responde a requisições POST para api/CTask.
 Cria uma nova tarefa com o estado inicial Created, adiciona ao banco de dados e salva as alterações. Retorna a tarefa criada com um status de criação (201 Created).
 
 ### [HttpPut("{id}/start")]:
-Define que este método responde a requisições PUT para api/CTask/{id}/start.
+Define que este método responde a requisições PUT para iniciar uma a Task para api/CTask/{id}/start.
 ### StartTask(int id):
 Encontra a tarefa pelo ID, verifica se seu estado é Created e altera para InProgress. Salva as mudanças e retorna NoContent() se bem-sucedido, ou BadRequest() se a tarefa não puder ser iniciada.
 
 ### [HttpPut("{id}/complete")]:
-Define que este método responde a requisições PUT para api/CTask/{id}/complete.
+Define que este método responde a requisições PUT para completar a Task api/CTask/{id}/complete.
 ### CompleteTask(int id):
 Encontra a tarefa pelo ID, verifica se seu estado é InProgress e altera para Completed. Salva as mudanças e retorna NoContent() se bem-sucedido, ou BadRequest() se a tarefa não puder ser completada.
 
 ### [HttpPut("{id}/cancel")]:
-Define que este método responde a requisições PUT para api/CTask/{id}/cancel.
+Define que este método responde a requisições PUT para cancelar a Task api/CTask/{id}/cancel.
 ### CancelTask(int id):
 Encontra a tarefa pelo ID, verifica se seu estado é Created ou InProgress e altera para Canceled. Salva as mudanças e retorna NoContent() se bem-sucedido, ou BadRequest() se a tarefa não puder ser cancelada.
 
